@@ -1,2 +1,2 @@
 # Pac-Man-Game
- Simple Pac-Man game.
+ ## Simple Pac-Man game.
